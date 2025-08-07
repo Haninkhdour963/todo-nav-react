@@ -1,4 +1,26 @@
 # Getting Started with Create React App
+# 📝 React Todo App with Routing
+
+A simple and clean **React Todo List** application that demonstrates core React concepts including routing with `react-router-dom`, reusable components, and basic testing using `@testing-library/react`.
+
+---
+
+## 🚀 Features
+
+- ✅ Add and display todo items (in `TodoList`)
+- 🧭 Navigation with `react-router-dom`
+- 🗂️ Separate routes for:
+  - Home (Todo List)
+  - About Us
+  - Contact Us
+- 🧪 Basic unit testing with `Jest` and `@testing-library/react`
+- ⚛️ Structured using functional components and modern React best practices
+
+---
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
